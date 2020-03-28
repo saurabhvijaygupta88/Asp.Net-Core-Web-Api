@@ -1,0 +1,14 @@
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\bin\Debug\netcoreapp2.2\EmployeeInfo.API.deps.json
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\bin\Debug\netcoreapp2.2\EmployeeInfo.API.runtimeconfig.json
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\bin\Debug\netcoreapp2.2\EmployeeInfo.API.runtimeconfig.dev.json
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\bin\Debug\netcoreapp2.2\EmployeeInfo.API.dll
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\bin\Debug\netcoreapp2.2\EmployeeInfo.API.pdb
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.csprojAssemblyReference.cache
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.csproj.CoreCompileInputs.cache
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.RazorAssemblyInfo.cache
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.RazorAssemblyInfo.cs
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.AssemblyInfoInputs.cache
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.AssemblyInfo.cs
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.RazorTargetAssemblyInfo.cache
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.dll
+C:\Apttus\My Git Repo\Asp.Net Core Web Api\EmployeeInfo.API\EmployeeInfo.API\obj\Debug\netcoreapp2.2\EmployeeInfo.API.pdb
